@@ -10,8 +10,8 @@ const Main = (props) => {
         axios
             .get("http://localhost:8000/api/expenses")
             .then((res) => {
-                console.log("This is the res from axios allExpenses", res);
-                console.log(res.data);
+                // console.log("This is the res from axios allExpenses", res);
+                // console.log(res.data);
                 setAllExpenses(res.data);
             })
             .catch((err) => {
@@ -24,7 +24,7 @@ const Main = (props) => {
             .post(`http://localhost:8000/api/expenses/${id}`)
             .then((response) => {
                 setReload(!reload);
-                console.log(response.data);
+                // console.log(response.data);
             })
             .catch((err) => console.log(err));
     };
@@ -50,7 +50,7 @@ const Main = (props) => {
                                 <td>{expense.name}</td>
                                 <td>{expense.type}</td>
                                 <td>{expense.amount}.00</td>
-                                <td>{expense.date}</td>
+                                <td>{(expense.date).toString().slice(0,10)}</td>
                                 <td>{expense.category}</td>
                                 <td>
                                     <button

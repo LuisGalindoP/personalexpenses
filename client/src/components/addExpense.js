@@ -71,7 +71,7 @@ const AddExpense = (props) => {
                     <label>date:</label>
                     <input
                         type="date"
-                        value={date}
+                        // value={date}
                         onChange={(e) => setDate(e.target.value)}
                     />
                 </div>
