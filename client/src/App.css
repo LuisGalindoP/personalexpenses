@@ -1,0 +1,133 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    background-color: #020912;
+}
+
+.delete-button {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 6px 24px;
+    border-radius: 4px;
+    opacity: 0.6;
+    font-weight: bold;
+}
+.delete-button:hover {
+    opacity: 1;
+}
+
+.add-button {
+    color: #051428;
+    border: none;
+    background-color: #68a8f9;
+    padding: 6px 24px;
+    border-radius: 4px;
+    opacity: 1;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.add-button:hover {
+    opacity: 0.8;
+}
+
+.select-month {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.select-month-input {
+    font-family: "Quicksand", sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    appearance: none;
+    background-color: #051428;
+    color: white;
+    border-color: #082c54;
+    border-radius: 5px;
+    color-scheme: dark;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+.form-component {
+    margin-bottom: 10px;
+}
+
+.form-label {
+    font-size: 14px;
+}
+
+.form-input {
+    font-family: "Quicksand", sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    display: block;
+    appearance: none;
+    background-color: #051428;
+    color: white;
+    border-style: none;
+    color-scheme: dark;
+}
+
+.title-component {
+    text-align: center;
+    font-size: 17px;
+    color: white;
+}
+
+.title-app {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-top: 0;
+    color: #b6d6ff;
+}
+
+.component-base {
+    background-color: #051428;
+    color: white;
+    margin: 20px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #0b1b2d;
+    border-width: 1px;
+    padding: 2%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+tr {
+    border-bottom: 1px solid #193457;
+}
+
+th {
+    text-align: left;
+    color: #68a8f9;
+}
+
+.stats {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.stats-low {
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+p {
+    height: 5px;
+}
