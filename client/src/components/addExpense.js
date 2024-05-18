@@ -36,6 +36,7 @@ const AddExpense = (props) => {
                         <label className="form-label">description:</label>
                         <input
                             className="form-input"
+                            name="description"
                             type="text"
                             value={name}
                             onChange={(e) => setName(e.target.value)}
@@ -59,6 +60,7 @@ const AddExpense = (props) => {
                     <div className="form-component">
                         <label className="form-label">amount:</label>
                         <input
+                            name="amount"
                             className="form-input"
                             type="Number"
                             value={amount}

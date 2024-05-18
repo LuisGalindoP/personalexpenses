@@ -49,7 +49,11 @@ function App() {
                 setAllExpenses={setAllExpenses}
                 actualMonth={actualMonth}
             />
-            <History allExpenses={allExpenses} actualMonth={actualMonth} />
+            <History
+                allExpenses={allExpenses}
+                actualMonth={actualMonth}
+                reload={reload}
+            />
         </div>
     );
 }

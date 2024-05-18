@@ -113,6 +113,7 @@ tr {
 th {
     text-align: left;
     color: #68a8f9;
+    width: 240px;
 }
 
 .stats {
