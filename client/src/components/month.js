@@ -24,7 +24,7 @@ const Main = (props) => {
 
     useEffect(() => {
         let today = new Date();
-        setMonth(today.getMonth() + 1);
+        setMonth(today.getMonth());
     }, [reload]);
 
     //handle delete Expenses
@@ -84,7 +84,7 @@ const Main = (props) => {
                                     <tr key={index}>
                                         <td>{expense.name}</td>
                                         <td>{expense.type}</td>
-                                        <td>{expense.amount}.00</td>
+                                        <td>{expense.amount.toFixed(2)}</td>
                                         <td>
                                             {expense.date
                                                 .toString()

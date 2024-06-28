@@ -4,9 +4,7 @@ import "../App.css";
 import MonthHistory from "./monthHistory";
 
 const History = (props) => {
-    const { allExpenses } = props;
-    const { actualMonth } = props;
-    const { reload } = props;
+    const { allExpenses, actualYear } = props;
 
     const [jan, setJan] = useState([]);
     const [feb, setFeb] = useState([]);
@@ -36,42 +34,43 @@ const History = (props) => {
         let decEntries = [];
 
         allExpenses.map((entry) => {
-            let entryMonth = entry.date.slice(5, 7);
+            let entryMonth = entry.date.slice(5, 7) + actualYear;
+
             switch (entryMonth) {
-                case "01":
+                case "01" + actualYear:
                     janEntries.push(entry);
                     break;
-                case "02":
+                case "02" + actualYear:
                     febEntries.push(entry);
                     break;
-                case "03":
+                case "03" + actualYear:
                     marEntries.push(entry);
                     break;
-                case "04":
+                case "04" + actualYear:
                     aprEntries.push(entry);
                     break;
-                case "05":
+                case "05" + actualYear:
                     mayEntries.push(entry);
                     break;
-                case "06":
+                case "06" + actualYear:
                     junEntries.push(entry);
                     break;
-                case "07":
+                case "07" + actualYear:
                     julEntries.push(entry);
                     break;
-                case "08":
+                case "08" + actualYear:
                     agoEntries.push(entry);
                     break;
-                case "09":
+                case "09" + actualYear:
                     sepEntries.push(entry);
                     break;
-                case "10":
+                case "10" + actualYear:
                     octEntries.push(entry);
                     break;
-                case "11":
+                case "11" + actualYear:
                     novEntries.push(entry);
                     break;
-                case "12":
+                case "12" + actualYear:
                     decEntries.push(entry);
                     break;
                 default:

@@ -79,6 +79,12 @@ body {
     font-size: 17px;
     color: white;
 }
+.month {
+    text-align: left;
+    font-size: 17px;
+    color: white;
+    margin-bottom: 0px;
+}
 
 .title-app {
     text-align: center;
@@ -128,7 +134,29 @@ th {
     justify-content: center;
     gap: 30px;
 }
+.stats-low-left {
+    font-size: 15px;
+    display: flex;
+    justify-content: start;
+    gap: 30px;
+}
 
 p {
     height: 5px;
+}
+
+.error {
+    color: red;
+    font-size: small;
+    text-align: center;
+}
+
+.text-blue {
+    color: blue;
+    font-weight: bold;
+}
+
+.text-red {
+    color: red;
+    font-weight: bold;
 }

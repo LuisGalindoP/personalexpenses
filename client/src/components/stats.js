@@ -33,9 +33,9 @@ const Stats = (props) => {
                         <p>Average Month</p>
                     </div>
                     <div>
-                        <p>{totalIncome}</p>
-                        <p>{totalExpenses}</p>
-                        <p>{profit}</p>
+                        <p>{totalIncome.toFixed(0)}</p>
+                        <p>{totalExpenses.toFixed(0)}</p>
+                        <p>{profit.toFixed(0)}</p>
                         <p>{averageMonthIncome.toFixed(0)}</p>
                     </div>
                 </div>
@@ -43,14 +43,14 @@ const Stats = (props) => {
                     <div>
                         <p>Entries</p>
                         <p>Month</p>
-                        <p>Profit</p>
-                        <p>Average Month</p>
+                        <p>Federal tax</p>
+                        <p>State tax</p>
                     </div>
                     <div>
                         <p>{allExpenses.length}</p>
                         <p>{actualMonth}</p>
-                        <p>{profit}</p>
-                        <p>{averageMonthIncome.toFixed(0)}</p>
+                        <p>{(profit * 0.3).toFixed(0)}</p>
+                        <p>{(totalIncome * 0.065).toFixed(0)}</p>
                     </div>
                 </div>
             </div>

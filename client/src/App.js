@@ -12,10 +12,15 @@ function App() {
     const [allExpenses, setAllExpenses] = useState([]);
     const [reload, setReload] = useState(false);
     const [actualMonth, setActualMonth] = useState(0);
+    const [actualYear, setActualYear] = useState(0);
+    const [actualDate, setActualDate] = useState();
 
     useEffect(() => {
         let today = new Date();
+        setActualDate(today);
         setActualMonth(today.getMonth() + 1);
+        setActualYear(today.getFullYear());
+
         axios
             .get("http://localhost:8000/api/expenses")
             .then((res) => {
@@ -30,12 +35,13 @@ function App() {
 
     return (
         <div>
-            <h2 className="title-app">My Expenses</h2>
+            <h2 className="title-app">My Expenses {actualYear}</h2>
             <AddExpense
                 allExpenses={allExpenses}
                 setAllExpenses={setAllExpenses}
                 reload={reload}
                 setReload={setReload}
+                actualDate={actualDate}
             />
 
             <Month
@@ -53,6 +59,7 @@ function App() {
                 allExpenses={allExpenses}
                 actualMonth={actualMonth}
                 reload={reload}
+                actualYear={actualYear}
             />
         </div>
     );
