@@ -1,0 +1,1872 @@
+[{
+  "_id": {
+    "$oid": "664e0ac4d125d1f9b8482eb2"
+  },
+  "name": "Autocad",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-13T00:00:00.000Z"
+  },
+  "amount": 63.81,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0ae4d125d1f9b8482eb5"
+  },
+  "name": "3dsMax",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0b0ed125d1f9b8482eb8"
+  },
+  "name": "Adobe",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0b1bd125d1f9b8482ebb"
+  },
+  "name": "Adobe 2",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0b2fd125d1f9b8482ebe"
+  },
+  "name": "Corona",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-18T00:00:00.000Z"
+  },
+  "amount": 78.68,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0b50d125d1f9b8482ec1"
+  },
+  "name": "Upwork",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-23T00:00:00.000Z"
+  },
+  "amount": 15.14,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0d31d125d1f9b8482ecf"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-08T00:00:00.000Z"
+  },
+  "amount": 12.76,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0d4fd125d1f9b8482ed2"
+  },
+  "name": "Valve ",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-06T00:00:00.000Z"
+  },
+  "amount": 3.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0d65d125d1f9b8482ed5"
+  },
+  "name": "Bitwarden",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-09T00:00:00.000Z"
+  },
+  "amount": 10,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0d79d125d1f9b8482ed8"
+  },
+  "name": "Sini software",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-28T00:00:00.000Z"
+  },
+  "amount": 199.35,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0d90d125d1f9b8482edb"
+  },
+  "name": "CG Trader UAB",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "amount": 84,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0da7d125d1f9b8482ede"
+  },
+  "name": "Paddle tutorial",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-29T00:00:00.000Z"
+  },
+  "amount": 36.35,
+  "category": "learning",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0db8d125d1f9b8482ee1"
+  },
+  "name": "Boris FX",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "amount": 99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e0dedd125d1f9b8482ee4"
+  },
+  "name": "CT Tax (2023 4th qt)",
+  "type": "expense",
+  "date": {
+    "$date": "2024-01-23T00:00:00.000Z"
+  },
+  "amount": 315,
+  "category": "state tax",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e107ed125d1f9b8482eeb"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-01-04T00:00:00.000Z"
+  },
+  "amount": 1213.65,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e109ed125d1f9b8482eef"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-01-11T00:00:00.000Z"
+  },
+  "amount": 260.71,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e10aed125d1f9b8482ef2"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-01-18T00:00:00.000Z"
+  },
+  "amount": 1815.98,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e10c1d125d1f9b8482ef5"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-01-25T00:00:00.000Z"
+  },
+  "amount": 251.72,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e114cd125d1f9b8482ef8"
+  },
+  "name": "Autocad",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-13T00:00:00.000Z"
+  },
+  "amount": 69.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1164d125d1f9b8482efb"
+  },
+  "name": "3dsMax",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1175d125d1f9b8482efe"
+  },
+  "name": "Adobe",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1188d125d1f9b8482f01"
+  },
+  "name": "Corona",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-18T00:00:00.000Z"
+  },
+  "amount": 78.68,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e11a0d125d1f9b8482f04"
+  },
+  "name": "Upwork",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-23T00:00:00.000Z"
+  },
+  "amount": 20.2,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e11add125d1f9b8482f07"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "amount": 12.76,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e11c0d125d1f9b8482f0a"
+  },
+  "name": "Race department",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-06T00:00:00.000Z"
+  },
+  "amount": 3.36,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e11cfd125d1f9b8482f0d"
+  },
+  "name": "MB Netspace",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-15T00:00:00.000Z"
+  },
+  "amount": 9.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e11f9d125d1f9b8482f13"
+  },
+  "name": "Audio amplifier",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-21T00:00:00.000Z"
+  },
+  "amount": 39.82,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e120cd125d1f9b8482f16"
+  },
+  "name": "audio cables",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-22T00:00:00.000Z"
+  },
+  "amount": 10.57,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1231d125d1f9b8482f19"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-02-05T00:00:00.000Z"
+  },
+  "amount": 890.01,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1247d125d1f9b8482f1c"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "amount": 885.51,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1260d125d1f9b8482f1f"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-02-12T00:00:00.000Z"
+  },
+  "amount": 232.44,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e127cd125d1f9b8482f22"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-02-26T00:00:00.000Z"
+  },
+  "amount": 1191.17,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e12c3d125d1f9b8482f27"
+  },
+  "name": "headphones cable",
+  "type": "expense",
+  "date": {
+    "$date": "2024-02-21T00:00:00.000Z"
+  },
+  "amount": 138.23,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e13d4d125d1f9b8482f52"
+  },
+  "name": "Autocad",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-13T00:00:00.000Z"
+  },
+  "amount": 69.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e13e2d125d1f9b8482f55"
+  },
+  "name": "3dsMax",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e13efd125d1f9b8482f58"
+  },
+  "name": "Adobe",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1401d125d1f9b8482f5b"
+  },
+  "name": "Chaos soft",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-18T00:00:00.000Z"
+  },
+  "amount": 85.75,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1418d125d1f9b8482f5e"
+  },
+  "name": "Upwork",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-23T00:00:00.000Z"
+  },
+  "amount": 20.2,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1426d125d1f9b8482f61"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-05T00:00:00.000Z"
+  },
+  "amount": 12.76,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1436d125d1f9b8482f64"
+  },
+  "name": "race department",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-06T00:00:00.000Z"
+  },
+  "amount": 3.36,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1446d125d1f9b8482f67"
+  },
+  "name": "iracing sims",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-08T00:00:00.000Z"
+  },
+  "amount": 111.1,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1459d125d1f9b8482f6a"
+  },
+  "name": "flipper case",
+  "type": "expense",
+  "date": {
+    "$date": "2024-03-04T00:00:00.000Z"
+  },
+  "amount": 14.13,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1472d125d1f9b8482f6d"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-03-07T00:00:00.000Z"
+  },
+  "amount": 552.88,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1483d125d1f9b8482f70"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-03-11T00:00:00.000Z"
+  },
+  "amount": 584.35,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e149bd125d1f9b8482f73"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-03-18T00:00:00.000Z"
+  },
+  "amount": 1791.33,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e14b5d125d1f9b8482f76"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-03-19T00:00:00.000Z"
+  },
+  "amount": 773.14,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1b9cd125d1f9b8482f79"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "amount": 1242.28,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1bbdd125d1f9b8482f7c"
+  },
+  "name": "Caruso",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "amount": 5000,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1bd4d125d1f9b8482f7f"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "amount": 314.65,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1becd125d1f9b8482f82"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "amount": 13.5,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c03d125d1f9b8482f85"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-09T00:00:00.000Z"
+  },
+  "amount": 620.84,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c1ed125d1f9b8482f88"
+  },
+  "name": "CT Tax",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-11T00:00:00.000Z"
+  },
+  "amount": 663,
+  "category": "state tax",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c43d125d1f9b8482f8b"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-11T00:00:00.000Z"
+  },
+  "amount": 323.64,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c6ed125d1f9b8482f8e"
+  },
+  "name": "contractor Camila Cualla ",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-17T00:00:00.000Z"
+  },
+  "amount": 2341.25,
+  "category": "contractors",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c86d125d1f9b8482f91"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "amount": 620.84,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1c9ad125d1f9b8482f94"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-25T00:00:00.000Z"
+  },
+  "amount": 1141.73,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e1cb5d125d1f9b8482f97"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "amount": 426.64,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e224fd125d1f9b8482f9a"
+  },
+  "name": "zoom",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "amount": 14.46,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e2277d125d1f9b8482f9d"
+  },
+  "name": "race department",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-06T00:00:00.000Z"
+  },
+  "amount": 3.36,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e228ed125d1f9b8482fa0"
+  },
+  "name": "Autocad",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "amount": 69.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e229ed125d1f9b8482fa3"
+  },
+  "name": "3dsMax",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e22bcd125d1f9b8482fa6"
+  },
+  "name": "Corona",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "amount": 24.95,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e22cfd125d1f9b8482fa9"
+  },
+  "name": "Adobe",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e22e2d125d1f9b8482fac"
+  },
+  "name": "Chaos software",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "amount": 85.75,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e22f1d125d1f9b8482faf"
+  },
+  "name": "upwork",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "amount": 20.2,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e2310d125d1f9b8482fb2"
+  },
+  "name": "XForm",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "amount": 110.7,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e2377d125d1f9b8482fb5"
+  },
+  "name": "karspersky",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-04T00:00:00.000Z"
+  },
+  "amount": 59.55,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e2386d125d1f9b8482fb8"
+  },
+  "name": "iracing",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-02T00:00:00.000Z"
+  },
+  "amount": 27.17,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e239ed125d1f9b8482fbb"
+  },
+  "name": "iracing",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "amount": 27.17,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e23b6d125d1f9b8482fbe"
+  },
+  "name": "iracing",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "amount": 15.1,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e23d4d125d1f9b8482fc1"
+  },
+  "name": "gumrd",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-17T00:00:00.000Z"
+  },
+  "amount": 42,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e23efd125d1f9b8482fc4"
+  },
+  "name": "iracing",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-29T00:00:00.000Z"
+  },
+  "amount": 15.1,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664e27aad125d1f9b8482fc7"
+  },
+  "name": "PLA filament",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-12T00:00:00.000Z"
+  },
+  "amount": 21.99,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a67e03aa96a60a9545f09"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "amount": 38.79,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a68673aa96a60a9545f0c"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "amount": 207.97,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a68ac3aa96a60a9545f0f"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-27T00:00:00.000Z"
+  },
+  "amount": 55.37,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a692e3aa96a60a9545f12"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "amount": 22.58,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6a223aa96a60a9545f15"
+  },
+  "name": "Oculus",
+  "type": "expense",
+  "date": {
+    "$date": "2024-07-18T00:00:00.000Z"
+  },
+  "amount": 8.5,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6b053aa96a60a9545f18"
+  },
+  "name": "GPU Amazon",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "amount": 827.69,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6b473aa96a60a9545f1b"
+  },
+  "name": "Books amazon",
+  "type": "expense",
+  "date": {
+    "$date": "2024-07-04T00:00:00.000Z"
+  },
+  "amount": 55.98,
+  "category": "learning",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6bbe3aa96a60a9545f23"
+  },
+  "name": "Office supplies amaz",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "amount": 5.76,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6bd33aa96a60a9545f26"
+  },
+  "name": "PLA",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "amount": 18.07,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6be83aa96a60a9545f29"
+  },
+  "name": "Nitro discord",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "amount": 31.87,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6c0d3aa96a60a9545f2c"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-26T00:00:00.000Z"
+  },
+  "amount": 20.2,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6c1a3aa96a60a9545f2f"
+  },
+  "name": "Office supplies",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-26T00:00:00.000Z"
+  },
+  "amount": 28.7,
+  "category": "hardware",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6d4a3aa96a60a9545f32"
+  },
+  "name": "Evermotion",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "amount": 232.49,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6d613aa96a60a9545f35"
+  },
+  "name": "Microsoft",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-10T00:00:00.000Z"
+  },
+  "amount": 18.05,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6d843aa96a60a9545f38"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "amount": 21.26,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6d903aa96a60a9545f3b"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "amount": 17.22,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6dae3aa96a60a9545f3e"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "amount": 19.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6dc43aa96a60a9545f41"
+  },
+  "name": "Makers muse",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-08T00:00:00.000Z"
+  },
+  "amount": 2.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6dd53aa96a60a9545f44"
+  },
+  "name": "Microsoft",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-10T00:00:00.000Z"
+  },
+  "amount": 18.05,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6dec3aa96a60a9545f47"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-11T00:00:00.000Z"
+  },
+  "amount": 31.89,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6dff3aa96a60a9545f4a"
+  },
+  "name": "Roblox development",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "amount": 19.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e213aa96a60a9545f4d"
+  },
+  "name": "Patchflyer",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "amount": 22.71,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e3e3aa96a60a9545f50"
+  },
+  "name": "Marcelo Bruno",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "amount": 19,
+  "category": "learning",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e523aa96a60a9545f53"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-08T00:00:00.000Z"
+  },
+  "amount": 19.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e603aa96a60a9545f56"
+  },
+  "name": "Microsoft",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-10T00:00:00.000Z"
+  },
+  "amount": 18.05,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e773aa96a60a9545f59"
+  },
+  "name": "EA development",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "amount": 74.43,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6e9a3aa96a60a9545f5c"
+  },
+  "name": "Speed Capital",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-16T00:00:00.000Z"
+  },
+  "amount": 10.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6eaa3aa96a60a9545f5f"
+  },
+  "name": "Valve corp",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-26T00:00:00.000Z"
+  },
+  "amount": 22.24,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a6fdc3aa96a60a9545f62"
+  },
+  "name": "Zoom video",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-03T00:00:00.000Z"
+  },
+  "amount": 14.46,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a70363aa96a60a9545f65"
+  },
+  "name": "Race department BV",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-06T00:00:00.000Z"
+  },
+  "amount": 3.22,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a707a3aa96a60a9545f68"
+  },
+  "name": "Autocad LT",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-13T00:00:00.000Z"
+  },
+  "amount": 69.13,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a708f3aa96a60a9545f6b"
+  },
+  "name": "3ds max",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a70ac3aa96a60a9545f6e"
+  },
+  "name": "Chaos group Verifone",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "amount": 24.95,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a70bc3aa96a60a9545f71"
+  },
+  "name": "Photoshop",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a70d53aa96a60a9545f74"
+  },
+  "name": "Chaos software GmbH",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-18T00:00:00.000Z"
+  },
+  "amount": 85.75,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a70ed3aa96a60a9545f77"
+  },
+  "name": "Upwork",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-23T00:00:00.000Z"
+  },
+  "amount": 20.2,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a711b3aa96a60a9545f7a"
+  },
+  "name": "XFORM",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-30T00:00:00.000Z"
+  },
+  "amount": 104.94,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a71893aa96a60a9545f7d"
+  },
+  "name": "Revit LT",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "amount": 90.4,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a71983aa96a60a9545f80"
+  },
+  "name": "Zoom video",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-03T00:00:00.000Z"
+  },
+  "amount": 14.46,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a71b83aa96a60a9545f83"
+  },
+  "name": "Race department",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "amount": 3.22,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a71cd3aa96a60a9545f86"
+  },
+  "name": "Photoshop",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a71dc3aa96a60a9545f89"
+  },
+  "name": "3ds max",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a72053aa96a60a9545f8c"
+  },
+  "name": "Chaos software",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "amount": 109.99,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a72163aa96a60a9545f8f"
+  },
+  "name": "Chaos software",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "amount": 85.75,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a72293aa96a60a9545f92"
+  },
+  "name": "Simplify 3d",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-20T00:00:00.000Z"
+  },
+  "amount": 69,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a723e3aa96a60a9545f95"
+  },
+  "name": "Digital river",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  },
+  "amount": 99.97,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a72963aa96a60a9545f98"
+  },
+  "name": "Zoom video",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-03T00:00:00.000Z"
+  },
+  "amount": 17.01,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a72aa3aa96a60a9545f9b"
+  },
+  "name": "Digital river",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-10T00:00:00.000Z"
+  },
+  "amount": 35.34,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a73703aa96a60a9545f9e"
+  },
+  "name": "Bright market",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-12T00:00:00.000Z"
+  },
+  "amount": 3.19,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a73863aa96a60a9545fa1"
+  },
+  "name": "3ds max",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-15T00:00:00.000Z"
+  },
+  "amount": 249.92,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a73973aa96a60a9545fa4"
+  },
+  "name": "Photoshop",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-16T00:00:00.000Z"
+  },
+  "amount": 10.62,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a73ab3aa96a60a9545fa7"
+  },
+  "name": "Chaos software",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-18T00:00:00.000Z"
+  },
+  "amount": 85.75,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a73bf3aa96a60a9545faa"
+  },
+  "name": "Digital river Maxon",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-30T00:00:00.000Z"
+  },
+  "amount": 99.97,
+  "category": "software",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a76aa3aa96a60a9545fad"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-02T00:00:00.000Z"
+  },
+  "amount": 548.39,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77203aa96a60a9545fb0"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-06T00:00:00.000Z"
+  },
+  "amount": 15.31,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77483aa96a60a9545fb3"
+  },
+  "name": "Caruso",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "amount": 5000,
+  "category": "cash",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77603aa96a60a9545fb6"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "amount": 550.64,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a776e3aa96a60a9545fb9"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-09T00:00:00.000Z"
+  },
+  "amount": 543.16,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77893aa96a60a9545fbc"
+  },
+  "name": "contractor Camila Gomez",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-13T00:00:00.000Z"
+  },
+  "amount": 2341.25,
+  "category": "contractors",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a779c3aa96a60a9545fbf"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-16T00:00:00.000Z"
+  },
+  "amount": 916.98,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77ad3aa96a60a9545fc2"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-05-30T00:00:00.000Z"
+  },
+  "amount": 483.24,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77c03aa96a60a9545fc5"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-04T00:00:00.000Z"
+  },
+  "amount": 582,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77ce3aa96a60a9545fc8"
+  },
+  "name": "Google",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  },
+  "amount": 15.31,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77f23aa96a60a9545fcb"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-06T00:00:00.000Z"
+  },
+  "amount": 377.58,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a77ff3aa96a60a9545fce"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-13T00:00:00.000Z"
+  },
+  "amount": 548.39,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a78133aa96a60a9545fd1"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-21T00:00:00.000Z"
+  },
+  "amount": 503.44,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a78203aa96a60a9545fd4"
+  },
+  "name": "Upwork",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-27T00:00:00.000Z"
+  },
+  "amount": 910.26,
+  "category": "upwork",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a78343aa96a60a9545fd7"
+  },
+  "name": "Wave",
+  "type": "income",
+  "date": {
+    "$date": "2024-06-28T00:00:00.000Z"
+  },
+  "amount": 465.48,
+  "category": "wave invoice",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a787f3aa96a60a9545fda"
+  },
+  "name": "Internet",
+  "type": "expense",
+  "date": {
+    "$date": "2024-05-05T00:00:00.000Z"
+  },
+  "amount": 137.99,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a789d3aa96a60a9545fdd"
+  },
+  "name": "Internet",
+  "type": "expense",
+  "date": {
+    "$date": "2024-06-05T00:00:00.000Z"
+  },
+  "amount": 137.99,
+  "category": "services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669a78ae3aa96a60a9545fe0"
+  },
+  "name": "Internet",
+  "type": "expense",
+  "date": {
+    "$date": "2024-04-05T00:00:00.000Z"
+  },
+  "amount": 137.99,
+  "category": "services",
+  "__v": 0
+}]
